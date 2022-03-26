@@ -9,7 +9,8 @@ V. Isualize has given a brand-new assignment to the team. We need to create a su
 In this section, we will sharing ride-sharing data among the different city types
 ## summary DataFrame and multiple-line chart
 
-![image](https://user-images.githubusercontent.com/100230706/160240171-4a624cc8-f099-4168-9f2b-3024ddf0d130.png)
+![image](https://user-images.githubusercontent.com/100230706/160248689-7abd7c36-4818-4edb-950e-19711edc23e5.png)
+
 
 As you can see in the picture, Urban city has the highest Fare between Jan to April. However, Rural has the lowest one. 
 
